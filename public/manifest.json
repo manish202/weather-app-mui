@@ -1,0 +1,17 @@
+{
+    "short_name": "Weather App",
+    "name": "My Weather App",
+    "icons": [
+      {
+        "src": "/icons/Weather-App.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "id":"/",
+    "background_color": "#FF3131",
+    "display": "standalone",
+    "theme_color": "#FF3131",
+    "description": "My weather app using mui."
+}
